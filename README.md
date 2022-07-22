@@ -116,7 +116,7 @@
 
 <br/> 
 
-  ## Recent Blog Posts  
+  ## ᴍᴀᴍʙᴀ ᴍᴇɴᴛᴀʟɪᴛʏ
 
 <br/>  
 
