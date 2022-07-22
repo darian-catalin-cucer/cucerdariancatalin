@@ -16,7 +16,7 @@
 </a>  
 
 <a href="https://humanbenchmark.com/users/624d4dcde28c5f000990ed3d" target="_blank">
-<img src=https://img.shields.io/badge/humanbenchmark-%2324292e.svg?&style=for-the-badge&logo=benchmark&logoColor=white alt=green style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/humanbenchmark-%2324292e.svg?&style=for-the-badge&logo=circle&logoColor=white alt=green style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/cucerdariancatalin" target="_blank">
