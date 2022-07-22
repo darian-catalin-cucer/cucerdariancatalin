@@ -114,7 +114,7 @@
 </td></tr></table>  
 <br/>  
 
-## Github Streaks
+## Stats
 
 <div align="center"><img src=http://github-readme-streak-stats.herokuapp.com?user=cucerdariancatalin&date_format=j%20M%5B%20Y%5D)
 align="center" /></div>  
