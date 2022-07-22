@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Cucer Darian-Cătălin!  
 
 <a href="https://leetcode.com/cucerdariancatalin" target="_blank">
-<img src=https://img.shields.io/badge/leetcode-%231E77B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=orange style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/leetcode-%23F28032.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=orange style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.hackerrank.com/dariancucer" target="_blank">
 <img src=https://img.shields.io/badge/hackerrank-%231E77B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=green style="margin-bottom: 5px;" />
