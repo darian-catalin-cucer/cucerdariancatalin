@@ -122,8 +122,8 @@
 
 ## Github Streaks
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cucerdariancatalin&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center"><img src=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cucerdariancatalin&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>  
 
 ##
 
