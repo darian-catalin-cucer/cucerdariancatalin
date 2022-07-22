@@ -114,12 +114,6 @@
 </td></tr></table>  
 <br/>  
 
-  ## Github Stats  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/> 
-
 ## Github Streaks
 
 <div align="center"><img src=http://github-readme-streak-stats.herokuapp.com?user=cucerdariancatalin&date_format=j%20M%5B%20Y%5D)
