@@ -14,12 +14,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
+
   
   ## Recent Blog Posts  
   
 <br/>  
-  
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=co6yao60em8kvokd8evrecnjo&cover_image=true&theme=default" /></div>  
+
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=co6yao60em8kvokd8evrecnjo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=co6yao60em8kvokd8evrecnjo&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
 <br/>  
 
