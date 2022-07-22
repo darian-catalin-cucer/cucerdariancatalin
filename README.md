@@ -1,5 +1,3 @@
-## Hey 👋, I'm Cucer Darian-Cătălin!  
-
 <a href="https://leetcode.com/cucerdariancatalin" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=orange style="margin-bottom: 5px;" />
 </a>
