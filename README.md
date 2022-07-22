@@ -1,3 +1,4 @@
+<div align="center">
 <a href="https://leetcode.com/cucerdariancatalin" target="_blank">
 
 <img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=orange style="margin-bottom: 5px;" />
@@ -19,7 +20,7 @@
 <a href="https://stackoverflow.com/users/16528677/darian-cătălin-cucer" target="_blank">
 
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-
+</div>  
 
 
   ## Github Stats  
