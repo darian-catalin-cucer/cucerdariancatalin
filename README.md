@@ -11,5 +11,9 @@
 </a>
 <a href="https://stackoverflow.com/users/16528677/darian-cătălin-cucer" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-
+  
+<br/>  
+  
   <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=co6yao60em8kvokd8evrecnjo&cover_image=true&theme=default" /></div>  
+
+<br/>  
