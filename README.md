@@ -16,7 +16,7 @@
 <img src=https://img.shields.io/badge/humanbenchmark-%2324292e.svg?&style=for-the-badge&logo=circle&logoColor=white alt=green style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://stackoverflow.com/users/16528677/darian-cătălin-cucer" target="_blank">
+<a href="https://stackoverflow.com/users/16528677/darian-cătălin-cucer?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 
