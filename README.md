@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://leetcode.com/cucerdariancatalin" target="_blank">
-<img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=orange style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.hackerrank.com/dariancucer" target="_blank">
