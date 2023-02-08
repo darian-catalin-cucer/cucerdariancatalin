@@ -22,8 +22,7 @@
 </div>    
 <br/>
 
-![Darian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&show_icons=true&bg_color=00000000)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&count_private=true)
 ##
 
 <br/>  
