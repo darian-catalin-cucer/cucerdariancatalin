@@ -23,9 +23,9 @@
 </div>    
 <br/>
 
+<div align="center">
+![Darian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&count_private=true)
 
-<a href="https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&count_private=true" target="_blank">
-</a>
 
 ##
 
