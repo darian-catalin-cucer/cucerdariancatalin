@@ -26,7 +26,7 @@
 
 ##
  
-[Darian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&count_private=true)
+![Darian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cucerdariancatalin&count_private=true)
 </div>   
 
 ##
