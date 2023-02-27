@@ -45,7 +45,7 @@ Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/N
 - Check out feature, which allowed to improve card orders & first payments by 5%. Actively participated in major product features: Bug Fixing, Release.
 - Redesign, which improved performance & stability by 50% and improved codebase scheme resulted in significant development speed-up.
 
-**Education \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+# Education
 
 **Bachelor of Science Aurel Vlaicu University** *Arad, Romania, Europe* **07/2021**
 
@@ -62,7 +62,7 @@ Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/N
 - **Child Career** *@Senior Staff participating in organizing and implementing fundraising campaigns, developed several event projects.* **(09/2013 - Current)**
 - [**ICRC RED CROSS**](https://www.crucearosiearad.ro) *@Tutor* • 1st place at the National Stage of Romania in 2015-2017 @*Local Mentor for children and adults*. **(07/2009 - Current)**
 
-**Honors & Awards \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+# Honors & Awards
 
 - Solved over 2,000 *@LeetCode* problems, achieving a top 0.02% ranking on the platform, my highest peak being 111 out of 20M coders, and providing guidance to over 5,000 users with more than 800 valuable solutions, which have amassed over 230,000 views. Daily streak of 400+ days on LT & GitHub.
 - Created and maintained 1,000 repositories on GitHub focused on Android Development Engineering, including substantial contributions to Open Source Code for organizations such as *@Google*, @GitHub, *@ChatGPT*, *@Amazon, @LinkedIn*, *@JetBrains, @LeetCode* : boosting up to 50% of profit revenue.
