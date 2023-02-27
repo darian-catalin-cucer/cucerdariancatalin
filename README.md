@@ -1,14 +1,10 @@
-
 **[LinkedIn](https://www.linkedin.com/in/cucerdariancatalin/)**
 |
 [+**40734509369**](tel:+40734509369)
 |
-**[The Money](https://www.linkedin.com/newsletters/7034097027214946304/)[Team®](https://www.linkedin.com/newsletters/7034097027214946304/)**
+**[The Money Team®](https://www.linkedin.com/newsletters/7034097027214946304/)**
 |
 **<cucerdariancatalin@gmail.com>**
-|
-**[GitHub](https://github.com/cucerdariancatalin)**
-
 
 **ANDROID APPLICATION DEVELOPMENT ENGINEER**
 
