@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=cucerdariancatalin&&style=flat-square" align="center" />
+
 **[LinkedIn](https://www.linkedin.com/in/cucerdariancatalin/)**
 |
 [+**40734509369**](tel:+40734509369)
