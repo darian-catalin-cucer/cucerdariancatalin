@@ -51,7 +51,7 @@ Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/N
 
 - Major in Electrical and Computer Engineering.
 
-**Volunteer & Mentorship \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+# Volunteer & Mentorship
 
 - [**DELTA FORCE ROBOTICS**](https://www.deltaforce.ro) *@Team Leader* • 1st place at the 1st edition of “**The World Robotics Championship**”. **(01/2017 - Current)**
 - [**Lions Clubs International**](https://www.lionsclubarad.ro) *@President* of the sales team *@Passionate Team Fighter* about the cause going beyond what is expected. **(11/2021 - Current)**
