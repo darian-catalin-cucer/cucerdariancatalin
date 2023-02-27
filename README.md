@@ -1,3 +1,4 @@
+
 **[LinkedIn](https://www.linkedin.com/in/cucerdariancatalin/)**
 |
 [+**40734509369**](tel:+40734509369)
@@ -72,6 +73,4 @@ Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/N
 - Attained perfection in LeetCode’s Study Plan section by earning all 25 available badges, solving over 800+ problems, resulting in a top 1% user ranking.
 - Achieved the highest level on HackerRank’s Compete section earning all 6 stars badge levels, with over 1,000+ problems, placing me in the top placement.
 
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=cucerdariancatalin&&style=flat-square" align="center" />
-</div> 
