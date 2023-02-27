@@ -6,19 +6,19 @@
 |
 **<cucerdariancatalin@gmail.com>**
 
-**ANDROID APPLICATION DEVELOPMENT ENGINEER**
+# ANDROID APPLICATION DEVELOPMENT ENGINEER
 
-**Advanced Android Development | User-Centered Design | Kotlin & Jetpack | Agile Methodologies | Ace of Initiative Ambasassador Seller**
+**Advanced Android Development | User-Centered Design | Kotlin & Jetpack | Agile Methodologies**
 
 Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/NDK, RESTful APIs, and Agile Methodologies. Designs and develops efficient user-friendly/user-centered applications, collaborates with cross-functional teams, and ensures code quality. A learner who keeps up-to-date with the latest trends and technologies in android development. Team player with excellent communication skills and passion for creating impactful solutions.
 
-**Skills \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+# Skills
 
 - Kotlin | Java | Android SDK | Android Studio IDE | C++ | Application Architecture | MVC | MVVM | JSON | Material Design | UID | UED | Git
 - Jetpack | Security | CI/CD | Accessibility | Firebase | SQL | Room | Unit Testing | Retrofit | OOP | Google Play Store  | Scrum | Gradle | JUnit | RxJava
 - Sales Skills | Critical Thinking | Leadership | Frontend/Backend | Full-Stack | English, Romanian - *All professional proficiency or above*
 
-**Experience \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+# Experience
 
 **Content Connoisseur [Medium](https://medium.com/@cucerdariancatalin) & [The Money Team®](https://www.linkedin.com/newsletters/7034097027214946304/) 01/2023 - *Current***
 
