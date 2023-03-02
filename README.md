@@ -24,7 +24,12 @@ Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/N
 
 **Content Connoisseur [Medium](https://medium.com/@cucerdariancatalin) & [The Money Team®](https://www.linkedin.com/newsletters/7034097027214946304/) 01/2023 - *Current***
 
-- **@cucerdariancatalin** Software Engineering, Tech, Coding, Career Advice, LeetCode, Routines, Lifestyle, Personal Development, Men Voice, Money
+<details>
+<summary>@cucerdariancatalin</summary>
+
+Software Engineering, Tech, Coding, Career Advice, LeetCode, Routines, Lifestyle, Personal Development, Men Voice, Money
+
+</details>
 
 **Software Developer Engineer** [`LeetCode`](https://leetcode.com/cucerdariancatalin/) *Romania, Europe* **03/2022 - *Current***
 - Leading a team of culture and collaboration, communication, and continuous learning. Working closely with team members, open communication, and adapting to new technologies, it created a collaborative environment where everyone feels valued and can contribute to achieving goals efficiently.
