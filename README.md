@@ -19,9 +19,9 @@ Innovative and proactive with extensive experience in Java/Kotlin, Android SDK/N
 
 # Skills
 
-- Kotlin | Java | Android SDK | Android Studio IDE | C++ | Application Architecture | MVC | MVVM | JSON | Material Design | UID | UED | Git
-- Jetpack | Security | CI/CD | Accessibility | Firebase | SQL | Room | Unit Testing | Retrofit | OOP | Google Play Store  | Scrum | Gradle | JUnit | RxJava
-- Sales Skills | Critical Thinking | Leadership | Frontend/Backend | Full-Stack | English, Romanian - *All professional proficiency or above*
+- Kotlin | Java | Android SDK | Android Studio IDE | C++ | MVC | MVVM | JSON | Material Design | UID | UED | Git
+- Jetpack | Security | CI/CD | Accessibility | Firebase | SQL | Room | Unit Testing | Retrofit | OOP | Google Play Store  | Scrum | Gradle
+- Sales Skills | Critical Thinking | Leadership | Frontend/Backend | Full-Stack | English, Romanian
 
 
 # Honors & Awards
